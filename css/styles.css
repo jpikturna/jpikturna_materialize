@@ -1,0 +1,10 @@
+#main {
+    background-color: grey;
+}
+body {
+    background: url(https://townsquare.media/site/721/files/2019/03/GettyImages-488580536.jpg?w=980&q=75) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
