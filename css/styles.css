@@ -8,3 +8,10 @@ body {
     -o-background-size: cover;
     background-size: cover;
   }
+.sub {
+    background-color: grey;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: fit-content;
+}
